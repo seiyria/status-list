@@ -144,4 +144,5 @@
 [x] eREKT
 [x] REKTacia
 [x] Vaginasaurus REKT
+[x] REKT is not a function
 ```
