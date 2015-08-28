@@ -144,5 +144,6 @@
 [x] eREKT
 [x] REKTacia
 [x] Vaginasaurus REKT
-[x] REKT is not a function
+[x] Uncaught TypeError: REKT is not a function
+[x] Uncaught REKTError: REKT is not defined
 ```
