@@ -60,9 +60,7 @@
 [x] Grand REKT Auto V
 [x] Call of REKT: Modern Reking 2
 [x] Legend Of Zelda: Ocarina of REKT
-[x] REKT It Ralph
 [x] Left 4 REKT
-[x] www.rekkit.com[1]
 [x] Pokemon: Fire REKT
 [x] The Shawshank REKTemption
 [x] The REKTfather
@@ -109,7 +107,6 @@
 [x] REKTPing
 [x] jQREKT
 [x] imsoREKT
-[x] REKTuiem of a Dream
 [x] Silence of the REKT
 [x] Wake me up when REKTember ends
 [x] REKT-al ©ancer
