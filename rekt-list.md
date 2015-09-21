@@ -144,4 +144,5 @@
 [x] Uncaught TypeError: REKT is not a function
 [x] Uncaught REKTError: REKT is not defined
 [x] MUM GET THE CAMEREKT
+[x] misdiREKT
 ```
