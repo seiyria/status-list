@@ -145,4 +145,5 @@
 [x] Uncaught REKTError: REKT is not defined
 [x] MUM GET THE CAMEREKT
 [x] misdiREKT
+[x] REKT and Morty
 ```
