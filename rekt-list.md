@@ -109,7 +109,7 @@
 [x] imsoREKT
 [x] Silence of the REKT
 [x] Wake me up when REKTember ends
-[x] REKT-al ©ancer
+[x] REKT-al cancer
 [x] reQt
 [x] REKTyourcat
 [x] REKTunMi
