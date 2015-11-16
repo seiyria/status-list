@@ -32,7 +32,7 @@
 [x] Cash4REKT.com
 [x] Grapes of REKT
 [x] Ship REKT
-[x] REKT markes the spot
+[x] REKT marks the spot
 [x] Caught REKT handed
 [x] The REKT Side Story
 [x] Singin' In The REKT
