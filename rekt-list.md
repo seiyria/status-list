@@ -146,4 +146,5 @@
 [x] MUM GET THE CAMEREKT
 [x] misdiREKT
 [x] REKT and Morty
+[x] It is a truth universally acknowledged, that a REKT man in possession of a REKT fortune, must be in want of a REKT
 ```
