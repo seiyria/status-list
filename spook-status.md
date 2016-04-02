@@ -12,4 +12,5 @@
 [x] I want to get off Mr. Bones Wild Ride
 [x] Spooky, scary skeletons (https://www.youtube.com/watch?v=K2rwxs1gH9w)
 [x] You have been spooked by the spooky skeleton
+[x] A Song of Spooks and Scares
 ```
