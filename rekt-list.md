@@ -149,4 +149,5 @@
 [x] It is a truth universally acknowledged, that a REKT man in possession of a REKT fortune, must be in want of a REKT
 [x] sudo apt-get REKT
 [x] libREKT.so
+[x] https://en.wikipedia.org/wiki/List_of_REKT_centers_in_the_United_States
 ```
